@@ -3,3 +3,4 @@ bin
 obj
 Properties
 appsettings.Development.json
+.DS_store
